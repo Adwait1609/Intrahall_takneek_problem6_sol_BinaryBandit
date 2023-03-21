@@ -1,0 +1,2 @@
+# Intrahall_takneek_problem6_sol_BinaryBandit
+Solution_number_6_Autocad_BinaryBandits
